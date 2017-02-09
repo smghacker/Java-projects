@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/SpringProjects/spring dependencies/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

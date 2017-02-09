@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/spring-test-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/junit/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/aspects/aspectjrt-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/SpringWork/spring/spring dependencies/aspects/aspectjweaver-1.7.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

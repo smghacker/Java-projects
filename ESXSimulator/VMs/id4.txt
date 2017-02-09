@@ -1,0 +1,15 @@
+Virtual Machine
+Name of VM: cmd4
+ID: id4
+MemoryType: RAM
+Size: 12312312312 bytes
+Number of CPUs: 2
+Device
+ID: devid1
+Type: IDE_HARD_DISK_CONTROLLER
+Max number of supported hdds: 4
+Device
+ID: devid2
+Type: HARD_DISK
+Size: 1231231
+Controller ID: devid1

@@ -1,0 +1,10 @@
+Virtual Machine
+Name of VM: a
+ID: id3
+MemoryType: RAM
+Size: 123 bytes
+Number of CPUs: 1Device
+Dev ID: devId
+Type: NETWORK_CARD
+MAC address: 1a-1a-1a-1a-1a-1a
+IP address: 192.168.1.1

@@ -1,0 +1,5 @@
+create-vm id5 'cmd5' 12312312312 2
+add-dev id5 NETWORK_CARD devid2 1a-1a-1a-1a-1a-1a 192.168.1.1
+print-vms
+save-vm id5
+add-dev id4 NETWORK_CARD devid3 2a-2a-2a-2a-2a-2a 192.168.2.2

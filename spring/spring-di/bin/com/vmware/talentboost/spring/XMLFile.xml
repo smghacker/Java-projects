@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/webflow"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/webflow
+        http://www.springframework.org/schema/webflow/spring-webflow-2.0.xsd">
+
+<bean id = "repo" class="com.vmware.talentboost.spring.impl.HardCodedRepository" />
+<bean id = "accountManager" class="com.vmware.talentboost.spring.impl.AccountManager" >
+    <constructor-arg name="repo" ref="repo"/>
+    </bean>
+<bean id = "questionManager" class="com.vmware.talentboost.spring.impl.QuestionManager" >
+	<constructor-arg name="repo" ref="repo"/>
+	</bean>
+<bean id = "player" class="com.vmware.talentboost.spring.impl.ConsolePlayer" >
+	<constructor-arg name="acc" ref="AccountManager"/>
+	<constructor-arg name="que" ref="QuestionManager"/>
+    </bean>
+</beans>

@@ -1,0 +1,4 @@
+create-vm id4 'cmd4' 12312312312 2
+add-dev id5 VIDEO_CARD devid1 123123 2
+print-vms
+save-vm id5

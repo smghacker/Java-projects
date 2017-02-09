@@ -1,0 +1,4 @@
+Name of VM: a
+ID: id
+MemoryType RAM
+Size: 123 bytes

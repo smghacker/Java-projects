@@ -1,0 +1,15 @@
+Virtual Machine
+Name of VM: a
+ID: id54
+MemoryType: RAM
+Size: 1231231 bytes
+Number of CPUs: 2
+Device
+ID: devid1
+Type: IDE_HARD_DISK_CONTROLLER
+Max number of supported hdds: 4
+Device
+ID: devid2
+Type: HARD_DISK
+Size: 123123
+Controller ID: devid1

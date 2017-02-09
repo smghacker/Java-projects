@@ -1,0 +1,13 @@
+Name of VM: a
+ID: id2
+MemoryType RAM
+Size: 123 bytes
+Dev ID: ids
+Type: NETWORK_CARD
+MAC address: 1a-1a-1a-1a-1a-1a
+IP address: 192.168.1.1
+Dev ID: ids2
+Type: VIDEO_CARD
+MemoryType VideoRAM
+Size: 11 KB
+Number of Displays: 2

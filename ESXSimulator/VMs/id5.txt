@@ -1,0 +1,11 @@
+Virtual Machine
+Name of VM: cmd5
+ID: id5
+MemoryType: RAM
+Size: 12312312312 bytes
+Number of CPUs: 2
+Device
+ID: devid2
+Type: NETWORK_CARD
+MAC address: 1a-1a-1a-1a-1a-1a
+IP address: 192.168.1.1
